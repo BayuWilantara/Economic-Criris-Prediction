@@ -1,1 +1,1 @@
-# Economic-Criris-Prediction
+# Economic-Crisis-Prediction
